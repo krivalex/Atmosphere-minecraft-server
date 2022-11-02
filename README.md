@@ -3,7 +3,7 @@
 
 <h2>Запуск сервера</h2>
 <ol>
-<li>Копируем репозиторий с помощью <strong>git clone <ссылка></strong></li>
+<li>Копируем репозиторий с помощью <strong>git clone https://github.com/krivalex/Atmosphere-minecraft-server.git</strong></li>
 <li>Устанавливаем виртуальное окружение с помощью <strong>py -m venv mine_venv</strong></li>
 <li>Активируем его с помощью <strong>mine_venv\scripts\activate</strong></li>
 <li>Вводим в терминал команду <strong>python -m pip install minecraftPythonAPI.zip</strong></li>
